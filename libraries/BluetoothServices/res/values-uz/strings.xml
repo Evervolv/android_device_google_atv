@@ -73,7 +73,7 @@
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Batareya quvvati: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Aksessuarlar"</string>
     <string name="settings_official_remote_category" msgid="1373956695709331265">"Masofaviy boshqaruv"</string>
-    <string name="settings_devices_connected" msgid="3256213134907921013">"Ulandi"</string>
+    <string name="settings_devices_connected" msgid="3256213134907921013">"Ulangan"</string>
     <string name="settings_devices_paired" msgid="4460141776955368574">"Avval ulangan qurilmalar"</string>
     <string name="settings_pair_remote" msgid="7566753084479902759">"Pult yoki aksessuarni ulash"</string>
     <string name="bluetooth_disconnect" msgid="1385608885917484057">"Uzish"</string>
