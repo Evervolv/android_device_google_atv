@@ -53,3 +53,6 @@ endif
 
 # Overlay for lowram
 PRODUCT_PACKAGES += TvLowRamOverlay
+
+# Disable camera
+PRODUCT_SUPPORTS_CAMERA := false
