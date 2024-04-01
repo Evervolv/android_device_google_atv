@@ -58,7 +58,7 @@
     <string name="settings_bt_disconnect" msgid="887583681642627405">"%1$s बाट जडान विच्छेद गर्नुहोस्"</string>
     <string name="settings_bt_connect" msgid="486902469425565740">"%1$s मा कनेक्ट गर्नुहोस्"</string>
     <string name="settings_bt_forget" msgid="1032095001156402398">"%1$s लाई बिर्सनुहोस्"</string>
-    <string name="settings_bt_rename" msgid="477643459806883336">"तपाईंको जडित यन्त्रको पुनः नामाकरण गर्नुहोस्‌"</string>
+    <string name="settings_bt_rename" msgid="477643459806883336">"तपाईंको जडित यन्त्रको नाम बदल्नुहोस्‌"</string>
     <string name="settings_hdmi_cec" msgid="7945299353290226128">"HDMI-CEC"</string>
     <string name="settings_enable_hdmi_cec" msgid="3955194037299390473">"HDMI-CEC सक्षम गर्नुहोस्"</string>
     <string name="settings_cec_explain" msgid="282126756909187653">"HDMI-CEC ले तपाईंलाई एकल दूरवर्ती नियन्त्रणमार्फत HDMI-CEC सक्षम पारिएका अन्य डिभाइसहरू नियन्त्रण गर्ने र स्वतः सक्रिय गर्ने/निष्क्रिय पार्ने अनुमति दिन्छ।\n\nटिपोट: आफ्ना टिभी र अन्य HDMI यन्त्रहरूमा HDMI-CEC सक्षम पारिएको छ भन्ने कुरा सुनिश्चित गर्नुहोस्। HDMI-CEC मा निर्माताहरूको नाम उदारणमा दिए जस्तै प्रायः फरक फरक हुन्छन्:"</string>

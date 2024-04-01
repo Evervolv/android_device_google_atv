@@ -28,7 +28,7 @@
     <string name="settings_bt_update" msgid="8210371540974244481">"Пультту жаңыртуу"</string>
     <string name="settings_bt_update_software_available" msgid="7002004529854458452">"Жаңы программа чыкты"</string>
     <string name="settings_bt_update_available" msgid="414405852666517260">"Жаңы версия бар"</string>
-    <string name="settings_bt_update_not_necessary" msgid="6906777343269759565">"Пульт жаңыртылды"</string>
+    <string name="settings_bt_update_not_necessary" msgid="6906777343269759565">"Пульт жаңырды"</string>
     <string name="settings_bt_update_failed" msgid="2593228509570726064">"Алыстан башкарылган түзмөк жаңыртылбай калды"</string>
     <string name="settings_bt_update_error" msgid="6267154862961568780">"Пультуңузду жаңыртууда маселе чыкты. Кайталап көрүңүз."</string>
     <string name="settings_bt_update_please_wait" msgid="8029641271132945499">"Күтө туруңуз"</string>
