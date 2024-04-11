@@ -22,7 +22,7 @@
     <string name="battery_level_low" msgid="8156936236696805171">"Төмөн"</string>
     <string name="battery_level_good" msgid="529772292250195778">"Жакшы"</string>
     <string name="settings_bt_confirm_update" msgid="7490528407190318108">"Пультту жаңыртууну ырастоо"</string>
-    <string name="settings_bt_update_summary" msgid="137113561617823800">"Жаңыртуу учурунда пультуңуз бир саамга ажыратылышы мүмкүн."</string>
+    <string name="settings_bt_update_summary" msgid="137113561617823800">"Жаңырып жатканда пультуңуз бир саамга ажыратылышы мүмкүн."</string>
     <string name="settings_continue" msgid="5640776697820481568">"Улантуу"</string>
     <string name="settings_cancel" msgid="1284029950430684039">"Жокко чыгаруу"</string>
     <string name="settings_bt_update" msgid="8210371540974244481">"Пультту жаңыртуу"</string>
