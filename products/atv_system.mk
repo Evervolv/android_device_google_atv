@@ -78,9 +78,8 @@ PRODUCT_PACKAGES += \
 # saves ~3 MiB of RAM. When 'true', additional settings are required for
 # external webcams to work, see "External USB Cameras" documentation.
 #
-# Defaults to true to mimic legacy behaviour.
-PRODUCT_SUPPORTS_CAMERA ?= true
-ifeq ($(PRODUCT_SUPPORTS_CAMERA),true)
+# Aussme 'true' if no one sets 'false'.
+ifneq ($(PRODUCT_SUPPORTS_CAMERA),false)
     PRODUCT_PACKAGES += cameraserver
     PRODUCT_PACKAGES += CameraExtensionsProxy
 else
