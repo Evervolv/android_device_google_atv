@@ -29,9 +29,6 @@ PRODUCT_PACKAGES += \
     update_engine \
     update_verifier \
 
-AB_OTA_UPDATER := true
-AB_OTA_PARTITIONS ?= system
-
 ifeq ($(PRODUCT_REQUIRES_PAI_STUB),true)
 PRODUCT_PACKAGES += \
 	AtomPlayAutoInstallStub
