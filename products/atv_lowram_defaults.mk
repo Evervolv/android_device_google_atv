@@ -26,10 +26,16 @@ PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
 # modules.
 PRODUCT_ALWAYS_PREOPT_EXTRACTED_APK := true
 
-# Use a profile based boot image for this device. Note that this is currently a
-# generic profile and not Android Go optimized.
+# Use TV specific preloaded classes for the boot classpath, determines which
+# methods from the boot classpath get optimized, which class is included in
+# the boot .art image, and how the corresponding DEX files are laid out.
+PRODUCT_COPY_FILES += device/google/atv/products/lowram_boot_profiles/preloaded-classes:system/etc/preloaded-classes
+
+# Use TV specific profile for the boot classpath, determines which methods
+# from the boot classpath get optimized, which class is included in the boot
+# .art image, and how the corresponding DEX files are laid out.
 PRODUCT_USE_PROFILE_FOR_BOOT_IMAGE := true
-PRODUCT_DEX_PREOPT_BOOT_IMAGE_PROFILE_LOCATION := frameworks/base/config/boot-image-profile.txt
+PRODUCT_DEX_PREOPT_BOOT_IMAGE_PROFILE_LOCATION := device/google/atv/products/lowram_boot_profiles/boot-image-profile.txt
 
 # Do not generate libartd.
 PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
