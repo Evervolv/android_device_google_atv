@@ -26,7 +26,7 @@
     <string name="settings_continue" msgid="5640776697820481568">"Fortsätt"</string>
     <string name="settings_cancel" msgid="1284029950430684039">"Avbryt"</string>
     <string name="settings_bt_update" msgid="8210371540974244481">"Uppdatering av fjärrkontroll"</string>
-    <string name="settings_bt_update_software_available" msgid="7002004529854458452">"Ny programvara är tillgänglig"</string>
+    <string name="settings_bt_update_software_available" msgid="7002004529854458452">"Ny mjukvara är tillgänglig"</string>
     <string name="settings_bt_update_available" msgid="414405852666517260">"Det finns en uppdatering"</string>
     <string name="settings_bt_update_not_necessary" msgid="6906777343269759565">"Fjärrkontrollen är uppdaterad"</string>
     <string name="settings_bt_update_failed" msgid="2593228509570726064">"Det gick inte att uppdatera fjärrkontrollen"</string>
@@ -37,7 +37,7 @@
     <string name="settings_disabled" msgid="1459717258643130682">"Inaktiverad"</string>
     <string name="settings_remote_battery_level_label" msgid="3644348379742819020">"Batterinivå"</string>
     <string name="settings_remote_battery_level_percentage_label" msgid="7301487906665476276">"%1$d %%"</string>
-    <string name="settings_remote_firmware_label" msgid="2132403094910284670">"Inbyggd programvara"</string>
+    <string name="settings_remote_firmware_label" msgid="2132403094910284670">"Inbyggd mjukvara"</string>
     <string name="settings_remote_serial_number_label" msgid="7591347399882767241">"Bluetooth-adress"</string>
     <string name="settings_bt_battery_low" msgid="3547517382697124858">"Byt batteriet"</string>
     <string name="settings_bt_battery_low_warning" msgid="721091326401791089">"Låg batterinivå"</string>
