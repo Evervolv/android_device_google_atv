@@ -53,7 +53,7 @@ TARGET_SYSTEM_PROP += \
 TARGET_VNDK_USE_CORE_VARIANT := true
 
 # Use the low memory allocator outside of eng builds to save RSS.
-ifneq (,$(filter eng, $(TARGET_BUILD_VARIANT)))
+ifeq (,$(filter eng, $(TARGET_BUILD_VARIANT)))
   MALLOC_SVELTE := true
 endif
 
