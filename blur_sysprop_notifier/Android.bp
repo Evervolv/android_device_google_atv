@@ -17,7 +17,6 @@ cc_binary {
     ],
 
     cflags: [
-        "-DXP_UNIX",
         "-Wall",
         "-Werror",
     ],
