@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"ମୋ ରିମୋଟ ଖୋଜନ୍ତୁ"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"ଯଦି ଆପଣଙ୍କ Google TV ରିମୋଟକୁ ଭୁଲ ସ୍ଥାନରେ ରଖାଯାଇଥାଏ ତେବେ ଏହାକୁ ଖୋଜିବା ପାଇଁ ଏକ ସାଉଣ୍ଡ ପ୍ଲେ କରନ୍ତୁ"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"30 ସେକେଣ୍ଡ ପାଇଁ ଆପଣଙ୍କ ରିମୋଟରେ ଏକ ସାଉଣ୍ଡ ପ୍ଲେ କରିବାକୁ ଆପଣଙ୍କ Google TV ଷ୍ଟ୍ରିମରର ପଛପଟେ ଥିବା ବଟନ ଦବାନ୍ତୁ। ଏହା କେବଳ ଏକ Google TV ଷ୍ଟ୍ରିମର ଭଏସ ରିମୋଟରେ କାମ କରେ।\n\nସାଉଣ୍ଡ ବନ୍ଦ କରିବାକୁ ଆପଣଙ୍କ ରିମୋଟରେ ଯେ କୌଣସି ବଟନ ଦବାନ୍ତୁ।"</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"ଯେତେବେଳେ \'ମୋ ରିମୋଟ ଖୋଜନ୍ତୁ\'କୁ ସକ୍ଷମ କରାଯାଏ, ସେତେବେଳେ ଯଦି ଆପଣଙ୍କ Google TV ରିମୋଟକୁ ଭୁଲ ସ୍ଥାନରେ ରଖାଯାଇଥାଏ ତେବେ ଏହାକୁ ଖୋଜିବା ପାଇଁ ଏକ ସାଉଣ୍ଡ ପ୍ଲେ କରନ୍ତୁ।"</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"ସାଉଣ୍ଡ ପ୍ଲେ କରନ୍ତୁ"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"ବେଟେରୀ ଲେଭେଲ: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"ଆକସେସୋରୀଗୁଡ଼ିକ"</string>

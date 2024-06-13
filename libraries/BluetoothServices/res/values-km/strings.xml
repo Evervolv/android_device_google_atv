@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"ស្វែងរកឧបករណ៍​បញ្ជាពីចម្ងាយរបស់ខ្ញុំ"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"ចាក់សំឡេងណាមួយ ដើម្បីកំណត់ទីតាំងឧបករណ៍​បញ្ជាពីចម្ងាយសម្រាប់ Google TV របស់អ្នក ប្រសិនបើបាត់ឧបករណ៍នោះ"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"ចុចប៊ូតុងនៅផ្នែកខាងក្រោយនៃ Google TV Streamer របស់អ្នក ដើម្បីចាក់សំឡេងនៅលើឧបករណ៍​បញ្ជាពីចម្ងាយរយៈពេល 30 វិនាទី។ សកម្មភាពនេះដំណើរការនៅលើឧបករណ៍បញ្ជាដោយសំឡេងសម្រាប់ Google TV Streamer តែប៉ុណ្ណោះ។\n\nដើម្បីបញ្ឈប់សំឡេង សូមចុចប៊ូតុងណាមួយនៅលើឧបករណ៍​បញ្ជាពីចម្ងាយរបស់អ្នក។"</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"នៅពេលបើក \"រកឧបករណ៍​បញ្ជាពីចម្ងាយរបស់ខ្ញុំ\" អ្នកអាចចាក់សំឡេងណាមួយ ដើម្បីកំណត់ទីតាំងឧបករណ៍​បញ្ជាពីចម្ងាយសម្រាប់ Google TV របស់អ្នក ប្រសិនបើបាត់ឧបករណ៍នោះ។"</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"ចាក់​សំឡេង"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"កម្រិតថ្ម៖ %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"ឧបករណ៍​បន្ទាប់បន្សំ"</string>

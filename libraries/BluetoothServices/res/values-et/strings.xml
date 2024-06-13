@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Leia mu pult"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Esitage heli, et leida oma kaotsiläinud Google TV pult"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Vajutage Google TV voogesitusseadme tagaküljel olevat nuppu, et esitada puldil 30-sekundiline heli. See töötab ainult Google TV voogesitusseadme hääljuhtimisege puldiga.\n\nHeli peatamiseks vajutage puldil mis tahes nuppu."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Kui funktsioon Leia mu pult on lubatud, saate esitada heli, et kaotsiläinud Google TV pult üles leida."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Esita heli"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Aku tase: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Tarvikud"</string>
