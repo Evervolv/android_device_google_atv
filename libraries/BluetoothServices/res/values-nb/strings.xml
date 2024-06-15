@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Finn fjernkontrollen min"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Spill av en lyd for å finne Google TV-fjernkontrollen hvis du ikke finner den"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Trykk på knappen på baksiden av Google TV Streamer for å spille av en lyd på fjernkontrollen i 30 sekunder. Dette fungerer bare på stemmestyrte Google TV Streamer-fjernkontroller.\n\nFor å stoppe lyden, trykk på hvilken som helst knapp på fjernkontrollen."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Når Finn fjernkontrollen min er slått på, kan du spille av en lyd for å finne Google TV-fjernkontrollen din hvis du ikke finner den."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Spill av lyd"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Batterinivå: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Tilbehør"</string>

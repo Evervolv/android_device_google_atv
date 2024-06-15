@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Vyhledání dálkového ovládání"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Pokud někam založíte dálkové ovládání ke Google TV, najděte ho podle zvuku"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Stiskněte tlačítko na zadní části Google TV Streamer a dálkové ovládání bude 30 sekund vydávat zvuk. Funguje to pouze na hlasovém ovládání Google TV Streamer.\n\nZvuk vypnete stisknutím libovolného tlačítka na dálkovém ovládání."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Pokud je aktivováno vyhledávání dálkového ovládání, můžete si nechat přehrát zvuk, abyste našli dálkové ovládání Google TV, když nevíte, kde je."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Přehrát zvuk"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Úroveň baterie: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Doplňky"</string>

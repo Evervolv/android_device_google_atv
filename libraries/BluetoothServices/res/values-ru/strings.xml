@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Поиск пульта"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Воспроизводить звуковой сигнал на потерянном пульте Google TV"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Нажмите кнопку на задней панели стримингового устройства Google TV, чтобы пульт издал 30-секундный звуковой сигнал. Функция поддерживается только на голосовых пультах для стриминговых устройств Google TV.\n\nЧтобы прекратить воспроизведение сигнала, нажмите любую кнопку на пульте."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Когда функция \"Поиск пульта\" включена, вы можете находить потерянный пульт Google TV по звуковому сигналу."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Воспроизвести звуковой сигнал"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Уровень заряда батареи: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Аксессуары"</string>
