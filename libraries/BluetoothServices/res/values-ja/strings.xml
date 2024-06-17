@@ -68,7 +68,7 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"リモコンを探す"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Google TV リモコンの場所がわからなくなったときに、リモコンから音を鳴らして探せるようにします"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Google TV Streamer の背面にあるボタンを押すと、リモコンから 30 秒間音が鳴ります。この機能は Google TV Streamer 音声リモコンでのみ利用できます。\n\n音を止めるには、リモコンのいずれかのボタンを押してください。"</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"「リモコンを探す」機能が有効の場合は、Google TV リモコンの場所がわからなくなったときにリモコンから音を鳴らして探すことができます。"</string>
+    <string name="find_my_remote_integration_hint" msgid="7131212049012673631">"ON にすると、デバイスのボタンを使用して、リモコンから音を鳴らして探すことができます。OFF にすると、このボタンは使用できません。別の方法で「リモコンを探す」機能を使用することもできます。"</string>
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"音を鳴らす"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"電池残量: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"アクセサリ"</string>
