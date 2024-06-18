@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Thola irimothi yami"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Dlala umsindo ukuze uthole irimothi yakho ye-Google TV uma ibekwe kabi"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Cindezela inkinobho engemuva Komsakazi wakho we-Google TV ukuze udlale umsindo kurimothi yakho imizuzwana engu-30. Lokhu kusebenza kuphela Kurimothi Yezwi Yomsakazi we-Google TV.\n\nUkuze umise umsindo, cindezela noma iyiphi inkinobho kurimothi yakho."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Uma okuthi Thola irimothi yami kunikwe amandla, ungadlala umsindo ukuze uthole irimothi yakho ye-Google TV uma ibekwe kabi."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Dlala umsindo"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Ileveli yebhethri: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Okuhambisanayo"</string>

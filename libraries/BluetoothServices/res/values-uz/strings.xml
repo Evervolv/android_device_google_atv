@@ -68,12 +68,13 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Pultimni top"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Google TV pulti joyida boʻlmasa, uni topish uchun jiringlating"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Pultingizni 30 soniya jiringlatish uchun Google TV Streamer orqasidagi tugmani bosing. Bu faqat Google TV Streamer ovozli boshqaruv pultida ishlaydi.\n\nSignalni toʻxtatish uchun pultdagi biror tugmani bosing."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Pultimni top funksiyasi yoniq boʻlsa, yoʻqolgan Google TV pultini ovozli signal orqali topish mumkin."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Signalni ijro etish"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Batareya quvvati: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Aksessuarlar"</string>
     <string name="settings_official_remote_category" msgid="1373956695709331265">"Masofaviy boshqaruv"</string>
-    <string name="settings_devices_connected" msgid="3256213134907921013">"Ulandi"</string>
+    <string name="settings_devices_connected" msgid="3256213134907921013">"Ulangan"</string>
     <string name="settings_devices_paired" msgid="4460141776955368574">"Avval ulangan qurilmalar"</string>
     <string name="settings_pair_remote" msgid="7566753084479902759">"Pult yoki aksessuarni ulash"</string>
     <string name="bluetooth_disconnect" msgid="1385608885917484057">"Uzish"</string>

@@ -68,7 +68,8 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Hanapin ang remote ko"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Mag-play ng tunog para mahanap ang iyong Google TV remote kung nawawala ito"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Pindutin ang button sa likod ng iyong Google TV Streamer para mag-play ng tunog sa iyong remote sa loob ng 30 segundo. Sa Google TV Streamer Voice Remote lang ito gumagana.\n\nPara ihinto ang tunog, pumindot ng kahit anong button sa iyong remote."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Kapag naka-enable ang Hanapin ang remote ko, puwede kang mag-play ng tunog para mahanap ang iyong Google TV remote kung nawawala ito."</string>
+    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
+    <skip />
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Mag-play ng tunog"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Antas ng baterya: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Mga Accessory"</string>
