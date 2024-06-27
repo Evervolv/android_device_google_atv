@@ -68,8 +68,7 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Пошук пульта"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Каб знайсці згублены пульт Google TV, вы можаце прайграць на ім гукавы сігнал"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Націсніце кнопку на задняй панэлі прылады для трансляцыі Google TV, каб пульт прайграў 30-секундны гукавы сігнал. Функцыя падтрымліваецца толькі на галасавых пультах ад прылад для трансляцыі Google TV.\n\nКаб выключыць сігнал, націсніце любую кнопку на пульце."</string>
-    <!-- no translation found for find_my_remote_integration_hint (7131212049012673631) -->
-    <skip />
+    <string name="find_my_remote_integration_hint" msgid="7131212049012673631">"Калі гэта функцыя ўключана, вы можаце прайграць гукавы сігнал на згубленым пульце, націснуўшы кнопку на сваёй прыладзе. Калі функцыя выключана, гэта кнопка не працуе. Вы па-ранейшаму зможаце выкарыстоўваць функцыю \"Знайсці пульт\" іншымі спосабамі."</string>
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Прайграць гукавы сігнал"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Узровень зараду акумулятара: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Аксесуары"</string>
