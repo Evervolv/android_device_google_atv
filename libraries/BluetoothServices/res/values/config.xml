@@ -86,6 +86,12 @@
   <bool name="find_my_remote_integration_enabled">false</bool>
 
   <!--
+    Whether the ATV integrates the Backlight functionality.
+    If it does, the integration should respect the value of user selection.
+  -->
+  <bool name="config_backlight_integration_enabled">false</bool>
+
+  <!--
     Whether to show the HDMI-CEC settings in ConnectedDevicesSlice. This is different from
     cec_settings_enabled that controls cec settings' overall availability. For example, we may set
     cec_settings_enabled to [true] and show_cec_in_connected_settings to [false] to surface the
