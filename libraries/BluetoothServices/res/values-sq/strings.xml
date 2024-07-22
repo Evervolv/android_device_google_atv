@@ -96,4 +96,10 @@
     <string name="settings_bt_pair_toast_fail" msgid="8025560978364284117">"Dështoi lidhja me %1$s"</string>
     <string name="settings_bt_pair_toast_connected" msgid="3073130641004809067">"%1$s u lidh"</string>
     <string name="settings_bt_pair_toast_disconnected" msgid="2046165143924352053">"%1$s u shkëput"</string>
+    <!-- no translation found for settings_backlight_title (2013564937830315646) -->
+    <skip />
+    <!-- no translation found for settings_backlight_description (2672529254045062504) -->
+    <skip />
+    <!-- no translation found for backlight_slice_description (2417058213200444743) -->
+    <skip />
 </resources>
