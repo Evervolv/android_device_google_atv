@@ -37,7 +37,7 @@
     <string name="settings_disabled" msgid="1459717258643130682">"Onemogućeno"</string>
     <string name="settings_remote_battery_level_label" msgid="3644348379742819020">"Razina napunjenosti baterije"</string>
     <string name="settings_remote_battery_level_percentage_label" msgid="7301487906665476276">"%1$d%%"</string>
-    <string name="settings_remote_firmware_label" msgid="2132403094910284670">"Oprema"</string>
+    <string name="settings_remote_firmware_label" msgid="2132403094910284670">"Firmware"</string>
     <string name="settings_remote_serial_number_label" msgid="7591347399882767241">"Bluetooth adresa"</string>
     <string name="settings_bt_battery_low" msgid="3547517382697124858">"Zamijenite bateriju"</string>
     <string name="settings_bt_battery_low_warning" msgid="721091326401791089">"Slaba baterija"</string>
