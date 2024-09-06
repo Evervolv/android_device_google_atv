@@ -68,7 +68,7 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Troba el meu comandament"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Reprodueix un so per localitzar el teu comandament de Google TV si no el trobes"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Prem el botó de la part posterior del teu Google TV Streamer per reproduir un so al comandament durant 30 segons. Això només funciona en un comandament per veu de Google TV Streamer.\n\nPer aturar el so, prem qualsevol botó del comandament."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Quan la funció Troba el meu comandament està activada, pots reproduir un so per localitzar el comandament de Google TV si no el trobes."</string>
+    <string name="find_my_remote_integration_hint" msgid="7131212049012673631">"Quan aquesta opció està activada, pots utilitzar el botó del dispositiu per reproduir un so i localitzar el comandament. Quan està desactivada, aquest botó no funciona. Podràs continuar utilitzant Troba el comandament amb altres mètodes."</string>
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Reprodueix un so"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Nivell de bateria: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Accessoris"</string>

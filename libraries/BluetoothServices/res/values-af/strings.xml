@@ -68,7 +68,7 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Soek my afstandbeheerder"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Speel ’n klank om jou Google TV-afstandbeheerder op te spoor as jy dit nie kan kry nie."</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Druk die knoppie aan die agterkant van jou Google TV-stromer om 30 sekondes lank ’n klank op jou afstandbeheerder te speel. Dit werk net op ’n Google TV-stromerstemafstandbeheerder.\n\nDruk enige knoppie op jou afstandbeheerder om die klank te stop."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"As Soek My Afstandbeheerder geaktiveer is, kan jy ’n klank speel om jou Google TV se afstandbeheerder op te spoor as jy dit nie kan kry nie."</string>
+    <string name="find_my_remote_integration_hint" msgid="7131212049012673631">"Wanneer dit aan is, kan jy die knoppie op jou toestel gebruik om ’n klank te speel om jou afstandbeheerder op te spoor. Wanneer dit af is, sal hierdie knoppie nie werk nie. Jy sal nog altyd Kry my afstandbeheerder deur ander metodes kan gebruik."</string>
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Speel klank"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Batteryvlak: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Bykomstighede"</string>

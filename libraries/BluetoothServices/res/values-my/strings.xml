@@ -68,7 +68,7 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"ကျွန်ုပ်၏ အဝေးထိန်းခလုတ်ရှာခြင်း"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"နေရာမှားထားမိပါက သင့် Google TV အဝေးထိန်းခလုတ်၏ နေရာကိုသိရန် အသံမြည်သည်"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"အဝေးထိန်းခလုတ်တွင် စက္ကန့် ၃၀ ကြာ အသံမြည်ရန် ‘Google TV ထုတ်လွှင့်သူ’ နောက်ရှိ ခလုတ်ကိုနှိပ်ပါ။ ၎င်းသည် ‘Google TV ထုတ်လွှင့်သူ Voice Remote’ တွင် လုပ်နိုင်သည်။\n\nအသံရပ်ရန် အဝေးထိန်းခလုတ်ရှိ ခလုတ်တစ်ခုခုကိုနှိပ်ပါ။"</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"‘ကျွန်ုပ်၏ အဝေးထိန်းခလုတ်ရှာခြင်း’ ဖွင့်ထားသောအခါ နေရာမှားထားမိပါက သင့် Google TV အဝေးထိန်းခလုတ်၏ နေရာကိုသိရန် အသံဖွင့်နိုင်သည်။"</string>
+    <string name="find_my_remote_integration_hint" msgid="7131212049012673631">"ဖွင့်ထားပါက သင့်အဝေးထိန်းခလုတ် ရှာဖွေရာတွင် အသံပေးရန်အတွက် သင့်စက်ရှိခလုတ်ကို သုံးနိုင်သည်။ ပိတ်ထားပါက ဤခလုတ် အလုပ်မလုပ်ပါ။ အခြားနည်းလမ်းများဖြင့် ‘အဝေးထိန်းခလုတ် ရှာပါ’ ကို သုံးနိုင်ပါသေးသည်။"</string>
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"အသံဖွင့်ရန်"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"ဘက်ထရီအား- %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"ဆက်စပ်ပစ္စည်းများ"</string>

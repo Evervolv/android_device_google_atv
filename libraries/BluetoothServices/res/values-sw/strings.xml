@@ -68,7 +68,7 @@
     <string name="settings_find_my_remote_title" msgid="618883575610472525">"Tafuta kidhibiti changu cha mbali"</string>
     <string name="settings_find_my_remote_description" msgid="2434088262598422577">"Cheza sauti ili upate kidhibiti chako cha mbali cha Google TV ikiwa kimepotea"</string>
     <string name="find_my_remote_slice_description" msgid="4802810369433859327">"Bonyeza kitufe kilicho upande wa nyuma wa Kitiririshaji chako cha Google TV ili ucheze sauti kwenye kidhibiti chako cha mbali kwa sekunde 30. Kipengele hiki kinapatikana tu kwa Kiungambali cha Sauti cha Kitiririshaji cha Google TV.\n\nIli uzime sauti, bonyeza kitufe chochote kwenye kidhibiti chako cha mbali."</string>
-    <string name="find_my_remote_integration_hint" msgid="3962827321568773142">"Ukiwasha huduma ya Tafuta kidhibiti changu cha mbali, unaweza kucheza sauti ili kupata kilipo kidhibiti chako cha mbali cha Google TV kikipotea."</string>
+    <string name="find_my_remote_integration_hint" msgid="7131212049012673631">"Ukiwasha, unaweza kutumia kitufe kilicho kwenye kifaa chako kucheza sauti ili utambue mahali kilipo kidhibiti chako cha mbali. Ukizima, kitufe hiki hakitafanya kazi. Bado utaweza kutumia kipengele cha Tafuta kidhibiti changu cha mbali kupitia mbinu nyinginezo."</string>
     <string name="find_my_remote_play_sound" msgid="1799877650759138251">"Cheza sauti"</string>
     <string name="settings_remote_battery_level" msgid="1817513765913707505">"Kiasi cha chaji kwenye betri: %1$s"</string>
     <string name="settings_known_devices_category" msgid="2307810690946536753">"Vifuasi"</string>
