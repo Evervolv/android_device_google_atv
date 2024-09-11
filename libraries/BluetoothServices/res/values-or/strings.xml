@@ -76,7 +76,7 @@
     <string name="settings_devices_connected" msgid="3256213134907921013">"ସଂଯୋଗ କରାଗଲା"</string>
     <string name="settings_devices_paired" msgid="4460141776955368574">"ପୂର୍ବରୁ ସଂଯୋଗ ହୋ‍ଇଛି"</string>
     <string name="settings_pair_remote" msgid="7566753084479902759">"ରିମୋଟ୍ କିମ୍ବା ଆକସେସୋରୀ ପେୟାର୍ କରନ୍ତୁ"</string>
-    <string name="bluetooth_disconnect" msgid="1385608885917484057">"ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ"</string>
+    <string name="bluetooth_disconnect" msgid="1385608885917484057">"ଡିସକନେକ୍ଟ କରନ୍ତୁ"</string>
     <string name="bluetooth_connect" msgid="6283971929092004620">"କନେକ୍ଟ କରନ୍ତୁ"</string>
     <string name="bluetooth_rename" msgid="4433577238394058486">"ରିନେମ କରନ୍ତୁ"</string>
     <string name="bluetooth_forget" msgid="4933552074497360964">"ଭୁଲିଯାଆନ୍ତୁ"</string>
