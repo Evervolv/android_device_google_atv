@@ -27,7 +27,7 @@
     <string name="settings_cancel" msgid="1284029950430684039">"Скасаваць"</string>
     <string name="settings_bt_update" msgid="8210371540974244481">"Абнаўленне пульта"</string>
     <string name="settings_bt_update_software_available" msgid="7002004529854458452">"З’явілася новае праграмнае забеспячэнне"</string>
-    <string name="settings_bt_update_available" msgid="414405852666517260">"З\'явілася абнаўленне"</string>
+    <string name="settings_bt_update_available" msgid="414405852666517260">"З’явілася абнаўленне"</string>
     <string name="settings_bt_update_not_necessary" msgid="6906777343269759565">"Пульт выкарыстоўвае апошнюю версію ПЗ"</string>
     <string name="settings_bt_update_failed" msgid="2593228509570726064">"Не ўдалося абнавіць прыладу"</string>
     <string name="settings_bt_update_error" msgid="6267154862961568780">"Пры абнаўленні пульта ўзнікла праблема. Паўтарыце спробу."</string>
